@@ -1,0 +1,31 @@
+1. Explain Hadoop in Layman's Term 
+
+    Hadoop is an open source java based programming framework that supports processing
+    and storing large amount of data in a distributed system  . 
+
+
+
+
+2. Explain the Components of Hadoop Framework 
+
+  The components of hadoop framework are :
+
+  * MapReduce - Used for processing large sets of data in parallel . 
+
+  * HDFS      - The hadoop distributed file system is a java based file system that can store all kinds of data and is reliable . 
+
+  * YARN      - A resource management framework for scheduling and handling request from distributed applications .
+
+
+
+
+
+3. Explain the reasons to learn big data technology 
+  
+  - Big data is fast growing       : Since , the data is growing there is a need of big data .
+                                     Big data revolution will continue to grow . 
+
+  - Everyone uses Big Data         : Big data is everywhere . It is used in health care , IT sectors , Sports-wise etc .
+
+  - Information Managers in Demand : As the big data technology increases , the  need for information managers
+                                     also increase  as someone should be able to run, manage the software used to analyze big data .
